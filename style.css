@@ -1,0 +1,33 @@
+body{
+ background-color: #E0FFFF;
+}
+
+#qr-code{
+	 background-color: #fff;
+	 align-items: center;
+	 width:  670px;
+	 height:  850px;
+	 border-radius: 30px;
+	 margin-left: 30%;
+	 /*padding: 50px 50px 50px 50px;*/
+}
+
+#img{
+	padding-left: 45px;
+	padding-top: 40px;
+	/*font-size-adjust: 32px;*/
+	/*height: 40px;*/
+}
+
+.projects{
+	color: #000080;
+	font-size: 11px;
+	font-weight: 70%;
+	text-align: center;
+}
+
+.code{
+	color: #4682B4;
+	text-align: center;
+	font-size: 18px;
+}
